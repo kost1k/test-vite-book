@@ -1,0 +1,44 @@
+{
+    "projectInfo": {
+        "name": "Vite Book",
+        "repo": "",
+        "list": [
+            {
+                "type": "dir",
+                "name": "TEST",
+                "url": "TEST",
+                "id": "TEST",
+                "hasIndex": true,
+                "list": [
+                    {
+                        "type": "file",
+                        "name": "Text-1.md",
+                        "url": "TEST/Text-1",
+                        "id": "TEST/Text-1"
+                    },
+                    {
+                        "type": "file",
+                        "name": "Text2.md",
+                        "url": "TEST/Text2",
+                        "id": "TEST/Text2"
+                    }
+                ]
+            },
+            {
+                "type": "dir",
+                "name": "TEST2",
+                "url": "TEST2",
+                "id": "TEST2",
+                "hasIndex": true,
+                "list": [
+                    {
+                        "type": "file",
+                        "name": "2022-08-17T21-00-20.md",
+                        "url": "TEST2/2022-08-17T21-00-20",
+                        "id": "TEST2/2022-08-17T21-00-20"
+                    }
+                ]
+            }
+        ]
+    }
+}
